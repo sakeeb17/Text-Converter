@@ -1,7 +1,7 @@
 {
     
   "homepage": "https://sakeeb17.github.io/Text-Converter",
-  "name": "textutils",
+  "name": "text-converter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
